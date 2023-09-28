@@ -22,7 +22,7 @@ library(officer)
 library(lubridate)
 
 # initialize the variables
-my_API <- "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"
+my_API <- "xxxxxxxxxxxxx"
 
 data_list_scenarios <- "./Data/List_Scenario.txt"
 data_in_scenarios <- "./Data/List_Scenario.txt"
