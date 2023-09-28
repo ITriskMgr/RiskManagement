@@ -43,7 +43,7 @@ scenarios_list2 = ""
 
 ##############################
 # OpenAI API 
-my_API <- "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"
+my_API <- "xxxxxxxxxxxx"
 # define the context
 Context_role = "user"
 Context_message = "You are a cybersecurity consultant, working in Canada, hired by a customer to perform a scenario-based cybersecurity risk assessment."
