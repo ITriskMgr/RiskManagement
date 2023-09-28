@@ -26,7 +26,7 @@ library(stringr)
 data_in_scenarios <- "./Data/Queries_Scenarios.xlsx"
 data_out_detailed_scenarios <- "./Data/Detailed_Evaluation_Scenarios.xlsx"
 data_out_scenarios = ""
-my_API <- "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"
+my_API <- "xxxxxxxxxxxxxxx"
 model = ""
 messages=""
 chat=""
